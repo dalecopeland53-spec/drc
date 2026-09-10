@@ -6,6 +6,12 @@
     "orientation": "portrait",
     "android": {
       "package": "com.dalecopeland.drctest"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bfde93e4-409b-40e0-87d4-0675f85b1534"
+      }
+    },
+    "owner": "raffa68s-team"
   }
 }
