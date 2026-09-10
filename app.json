@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DRC Test",
+    "slug": "drc-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.dalecopeland.drctest"
+    }
+  }
+}
